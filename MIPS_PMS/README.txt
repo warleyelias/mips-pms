@@ -1,9 +1,9 @@
 Copyright 2010 Warley Elias
 Contato: 	warleyelias@gmail.com
 		japaelias@gmail.com
-		(33) 8824-2770
+		(31) 99300-5074
 
 Requisitos do Sistema
-•	Pentium 166 MHz ou superior.
-•	64 MB de RAM ou superior.
-•	98 MB de espaço disponível no disco rígido ou mais.
+â€¢	Pentium 166 MHz ou superior.
+â€¢	64 MB de RAM ou superior.
+â€¢	98 MB de espaÃ§o disponÃ­vel no disco rÃ­gido ou mais.
